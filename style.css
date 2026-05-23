@@ -342,3 +342,17 @@ footer{
   margin-bottom:20px;
   line-height:1.7;
 }
+.buy-btn{
+  display:inline-block;
+  background:#E11D2E;
+  color:white;
+  padding:12px 25px;
+  border-radius:10px;
+  text-decoration:none;
+  transition:0.3s;
+}
+
+.buy-btn:hover{
+  transform:scale(1.05);
+  box-shadow:0 0 20px #E11D2E;
+}
